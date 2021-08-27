@@ -1,0 +1,12 @@
+ static void Main(string[] args)
+        {
+            int pokerBalance = 100; // Баланс на покере
+            byte enemyHealth = 220; // Колличество хп у противника
+            char = '?'; // символ вопросительный знак
+            string pcClub = "Portal"; // Компьютерный клуб "Портал"
+            float humanTemperature = 36.7f; // Температура у человека
+            decimal spaceStars = 87543; // Звёзды в космосе
+            sbyte lostMoney = -110; // Потеря денег
+            int oceanIslands = 17; // Острова в океане
+            bool isLiar = true; // Лжец? Правда
+            bool isHonest = false; // Честный? Не правда
